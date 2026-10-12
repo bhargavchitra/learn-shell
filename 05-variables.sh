@@ -10,5 +10,5 @@ echo "script started execution at:  $END_TIME"
 
 
 TOTAL_TIME=$(($END_TIME-$START_TIME))
-echo "total time execution at: $TOTAL_TIME" 
+echo "total time execution at: $TOTAL_TIME seconds" 
 
