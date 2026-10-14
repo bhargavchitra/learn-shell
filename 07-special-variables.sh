@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "all the args passed: $@"
+echo "all the args passed to the script: $@"
