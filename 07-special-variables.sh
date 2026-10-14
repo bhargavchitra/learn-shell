@@ -8,3 +8,8 @@ echo "Realpath: $(realpath $0)"
 echo "who is running current script: $USER"
 echo "Directory of the current script: $HOME"
 echo "PID of the current script: $$"
+sleep 10 &
+echo "PID of the commanf running in background now: $!"
+echo $! #script waits $! command complete 
+echo "Line number: $LINENO"
+echo "s" 
