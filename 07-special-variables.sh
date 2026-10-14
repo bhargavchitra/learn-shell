@@ -14,4 +14,4 @@ echo $! #script waits $! command complete
 echo "Line number: $LINENO"
 echo "s" 
 echo "previous command exit status: $?"
-echo "Total time executed for this script: $seconds"
+echo "Total time executed for this script: $SECONDS"
