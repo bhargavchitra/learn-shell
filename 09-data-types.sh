@@ -22,3 +22,4 @@ echo "first fruits: ${FRUITS[0]}"
 echo "second fruits: ${FRUITS[2]}"
 echo "third fruits: ${FRUITS[3]}"
 
+
