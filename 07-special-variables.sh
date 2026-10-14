@@ -13,3 +13,5 @@ echo "PID of the commanf running in background now: $!"
 echo $! #script waits $! command complete 
 echo "Line number: $LINENO"
 echo "s" 
+echo "previous command exit status: $?"
+echo "Total time executed for this script: $seconds"
