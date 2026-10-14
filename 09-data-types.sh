@@ -14,3 +14,8 @@ COUNT=COUNT+1
 echo "Count is: $COUNT "
 
 
+
+
+FRUITS=("Apple" "banana" "papaya")   #this is called array 
+echo "All fruits: $FRUITS[@]"
+
