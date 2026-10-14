@@ -20,3 +20,6 @@ FRUITS=("Apple" "banana" "pappaya")   #this is called array
 echo "All fruits: ${FRUITS[@]}"
 echo "first fruits: ${FRUITS[0]}"
 
+
+name="sivakumar reddy m"
+echo "${name}ettu
