@@ -40,3 +40,5 @@ done <<< "$files_to_delete"
 # <<< -> variable as input
 
 
+
+
